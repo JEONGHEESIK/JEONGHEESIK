@@ -3,11 +3,12 @@
 </div>
 
 ## AI Engineer
-**<span style="font-weight: 700; font-size: 15px; color: #c9d1d9;"></span>**
-    * Graduate School of AIㆍSW, Sogang University
-        * Department of AIㆍData Science 2025.02 ~
-    * Working as an AI engineer at Company
-        * Development of RAG and Deep Learning
+* Graduate School of AIㆍSW, Sogang University
+    * Department of AIㆍData Science 2025.02 ~
+* Working as an AI engineer at Company
+    * Development of RAG and Deep Learning
+
+---
 
 ## 🛠️ Tech Stacks
 <br>
@@ -36,13 +37,4 @@
 <div align="center">
     <a href="https://www.instagram.com/25thonmay/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/25thonmay/"> </a>
     <a href="mailto:koto144@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koto144@gmail.com"> </a>
-    <a href="https://blog.naver.com/koto144"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/koto144"> </a>
-</div>
-
----
-
-## My Status
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&theme=radical&show_icons=true"/>
-</p>
+    <a href="https://blog.naver.

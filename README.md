@@ -28,6 +28,7 @@
          <a href=mailto:koto144@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koto144@gmail.com"> </a>
          <a href=https://blog.naver.com/koto144> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/koto144"> </a>
           </div>  <br> 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
     <div align= "center">  </div> 
     </div>
     

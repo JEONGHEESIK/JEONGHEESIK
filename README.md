@@ -4,10 +4,10 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AI Engineer </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 
-        + Graduate School of AI and SW, Sogang University 
-            + 2025.02 ~
-        + Working as an AI engineer at Company
-            + Development of RAG and Deep Learning 
+        +Graduate School of AI and SW, Sogang University 
+            +2025.02 ~
+        +Working as an AI engineer at Company
+            +Development of RAG and Deep Learning 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 

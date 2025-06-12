@@ -30,8 +30,7 @@
           </div>  <br> 
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> My Status </h2> <br> 
-        ![My Status](https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&count_private=true)
-        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEONGHEESIK)](https://github.com/anuraghazra/github-readme-stats)
     </div> 
     </div>
     

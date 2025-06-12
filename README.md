@@ -54,8 +54,8 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">My Status</h2>
 <p align="center">
-<!-- 사용한 언어 순위 카드 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=algolia)
+    <!-- 사용한 언어 순위 카드 -->
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=algolia)
 </p>
 <br>
 <p align="center">

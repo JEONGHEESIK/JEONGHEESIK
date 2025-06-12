@@ -3,12 +3,11 @@
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> AI Engineer </h2>
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;">
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"></div>
         + Graduate School of AI and SW, Sogang University
             + 2025.02 ~
         + Working as an AI engineer at Company
             + Development of RAG and Deep Learning
-    </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br>
     <div  align= "center"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">

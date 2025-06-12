@@ -4,10 +4,10 @@
 
 ## AI Engineer
 **<span style="font-weight: 700; font-size: 15px; color: #c9d1d9;">**
-    + Graduate School of AIㆍSW, Sogang University
-        + Department of AIㆍData Science 2025.02 ~
-    + Working as an AI engineer at Company
-        + Development of RAG and Deep Learning
+    * Graduate School of AIㆍSW, Sogang University
+        * Department of AIㆍData Science 2025.02 ~
+    * Working as an AI engineer at Company
+        * Development of RAG and Deep Learning
 
 ## 🛠️ Tech Stacks
 <br>

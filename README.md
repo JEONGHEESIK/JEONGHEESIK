@@ -30,7 +30,7 @@
 | **Frontend** | <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"> |
 | **DataBase** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"> <img src="https://img.shields.io/badge/Vector_DB-Weaviate-13294B?style=for-the-badge&logo=weaviate&logoColor=white"><img src="https://img.shields.io/badge/-%20Chroma-00D1FF?style=for-the-badge&logo=chromadb&logoColor=white"><img src="https://img.shields.io/badge/-%20FAISS-04ADFF?style=for-the-badge&logo=facebook&logoColor=white"> |
 | **Container & Orchestration** | <img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white">  |
-| **Platform** | <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-Black">
+| **Platform** | <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-black?style=for-the-badge&logo=linux&logoColor=white">
 | **Collaboration** | <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> |
 
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">

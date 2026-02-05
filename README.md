@@ -49,14 +49,14 @@
 
 ---
 
- <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stat</h2>
     
 <div style="display: flex; flex-direction: column; align-items: center;">
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical" alt="JEONGHEESIK's GitHub stats" />
   </div>
-  <div style="display: flex; justify-content: center; margin-top: 30px;">
+  <div style="display: flex; justify-content: center; margin-top: 50px;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=dracula" alt="Top Langs" />
   </div>
 </div>

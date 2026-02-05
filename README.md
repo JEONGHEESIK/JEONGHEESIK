@@ -53,9 +53,9 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">Stat</h2>
 <div align="center">
     <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical&width=495" alt="JEONGHEESIK's GitHub stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical" width="495" />
     <br>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&card_width=495" alt="Top Langs" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&card_width=495" height="165" />
 </div>
 
 

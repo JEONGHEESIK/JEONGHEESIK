@@ -51,12 +51,7 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">My Status</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&hide_border=true&langs_count=6&count_private=true" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&hide_border=true&langs_count=6" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical&hide_border=true" />
 </div>
-
-<br>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&theme=radical&show_icons=true" />
-</p>

@@ -56,8 +56,8 @@
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical" alt="JEONGHEESIK's GitHub stats" />
   </div>
-  <div style="display: flex; justify-content: center; margin-top: 50px;">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=dracula" alt="Top Langs" />
+  <div style="display: flex; justify-content: center; margin-top: 10px;">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=dracula" />
   </div>
 </div>
 

@@ -51,7 +51,8 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">My Status</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JEONGHEESIK&layout=compact&theme=radical&hide_border=true&langs_count=6&cache_seconds=21600" />
     <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JEONGHEESIK&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" />
 </div>
+

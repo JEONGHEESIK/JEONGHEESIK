@@ -42,9 +42,9 @@
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Contact me</h2>
 <br>
 <div align="center">
-    <a href="https://www.instagram.com/25thonmay/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"> </a>
-    <a href="mailto:koto144@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> </a>
-    <a href="https://blog.naver.com/koto144"> <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white"> </a>
+    <a href="https://www.instagram.com/25thonmay/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+    <a href="mailto:koto144@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> </a>
+    <a href="https://blog.naver.com/koto144"> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white"> </a>
 </div>
 
 ---

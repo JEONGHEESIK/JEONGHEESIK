@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=JEONGHEESIK's%20GitHub&animation=&fontColor=ffffff&fontSize=40" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&text=JEONGHEESIK's%20GitHub&animation=&fontColor=ffffff&fontSize=15" />
 </div>
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">AI Engineer</h2>
